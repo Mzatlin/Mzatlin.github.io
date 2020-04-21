@@ -42,7 +42,7 @@ hr.star-light {
 
 hr.star-light:after {
   color: #fff;
-  background-color: #18BC9C;
+  background-color: rgb(2, 15, 13);
 }
 
 hr.star-dark {
@@ -84,7 +84,7 @@ section h2 {
 
 .scroll-to-top {
   z-index: 1042;
-  right: 1rem;
+right:      rem;
   bottom: 1rem;
   display: none;
 }
@@ -152,11 +152,11 @@ section h2 {
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active {
     color: #fff;
-    background: #18BC9C;
+    background:  rgb(1, 10, 20);
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active:active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:focus, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
     color: #fff;
-    background: #18BC9C;
+    background:  rgb(1, 10, 20);
   }
   #mainNav.navbar-shrink {
     padding-top: 0.5rem;
@@ -212,7 +212,7 @@ header.masthead h2 {
   -moz-transition: all ease 0.5s;
   transition: all ease 0.5s;
   opacity: 0;
-  background-color: rgba(24, 188, 156, 0.9);
+  background-color:  rgb(1, 10, 20);
 }
 
 .portfolio .portfolio-item .portfolio-item-caption:hover {
