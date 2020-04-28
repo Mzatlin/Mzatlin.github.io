@@ -212,7 +212,7 @@ header.masthead h2 {
   -moz-transition: all ease 0.5s;
   transition: all ease 0.5s;
   opacity: 0;
-  background-color:  rgb(1, 10, 20);
+  background-color:  rgb(20, 129, 255);
 }
 
 .portfolio .portfolio-item .portfolio-item-caption:hover {
@@ -306,7 +306,7 @@ header.masthead h2 {
 
 .floating-label-form-group:not(:first-child) {
   padding-left: 14px;
-  border-left: 1px solid #e9ecef;
+  border-left: 1px solid #146fc9;
 }
 
 .floating-label-form-group-with-value label {
@@ -372,7 +372,7 @@ a:focus, a:hover, a:active {
 }
 
 .btn-secondary {
-  background-color: rgb(255, 255, 255);
+  background-color: #2C3E50;
   border-color: #2C3E50;
 }
 
