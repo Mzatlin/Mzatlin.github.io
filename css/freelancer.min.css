@@ -307,7 +307,7 @@ header.masthead h2 {
 }
 
 .floating-label-form-group-with-focus label {
-    color: #18bc9c
+    color:  #393E41
 }
 
 form .row:first-child .floating-label-form-group {
@@ -326,11 +326,11 @@ form .row:first-child .floating-label-form-group {
 }
 
 a {
-    color: #18bc9c
+    color: #E2C044 /*The yellow X*/
 }
 
 a:active, a:focus, a:hover {
-    color: #128f76
+    color: #ac9131 /*The yellow X Hover*/
 }
 
 .btn {
@@ -359,8 +359,8 @@ a:active, a:focus, a:hover {
 }
 
 .btn-primary:active, .btn-primary:focus, .btn-primary:hover {
-    background-color: #128f76; /*Color of interior portfolio 'Close button' Hover Inside*/
-    border-color: #128f76 /*border color of interior portfolio close button*/
+    background-color: #ac9131; /*Color of interior portfolio 'Close button' Hover Inside*/
+    border-color: #ac9131 /*border color of interior portfolio close button*/
 }
 
 .btn-secondary {
