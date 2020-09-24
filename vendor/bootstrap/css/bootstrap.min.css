@@ -445,7 +445,7 @@ hr {
 }
 
 .img-fluid {
-    max-width: 100%;
+    max-width: 75%; /*changes the width of the img*/
     height: auto
 }
 
@@ -7019,7 +7019,7 @@ a.bg-dark:focus, a.bg-dark:hover, button.bg-dark:focus, button.bg-dark:hover {
 }
 
 .w-100 {
-    width: 100%!important
+    width: 100%!important    /*width of the hourglass hover*/
 }
 
 .w-auto {
