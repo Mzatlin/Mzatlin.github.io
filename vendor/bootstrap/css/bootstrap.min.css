@@ -446,7 +446,10 @@ hr {
 
 .img-fluid {
     max-width: 75%; /*changes the width of the img*/
-    height: auto
+    height: auto;
+   /* float:left; */
+    display:inline-block;
+    
 }
 
 .img-thumbnail {
@@ -7167,7 +7170,7 @@ a.bg-dark:focus, a.bg-dark:hover, button.bg-dark:focus, button.bg-dark:hover {
 }
 
 .mb-5, .my-5 {
-    margin-bottom: 3rem!important
+    margin-bottom: 1rem!important;
 }
 
 .ml-5, .mx-5 {
