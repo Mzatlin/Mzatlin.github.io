@@ -452,6 +452,14 @@ hr {
     
 }
 
+.img-fluid2 {
+    max-width: 50%; /*changes the width of the img*/
+    height: auto;
+   /* float:left; */
+    display:inline-block;
+    
+}
+
 .img-thumbnail {
     padding: .25rem;
     background-color: #fff;
