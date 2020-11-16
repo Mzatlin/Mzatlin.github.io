@@ -462,8 +462,8 @@ hr {
 .img-fluid3 {
     max-width: 40%; /*changes the width of the img*/
     height: auto;
-    
-    display:inline-block;
+    float:left;
+  /*  display:inline-block;*/
     
 }
 
