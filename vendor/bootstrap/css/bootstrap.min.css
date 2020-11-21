@@ -453,10 +453,10 @@ hr {
 }
 
 .img-fluid2 {
-    max-width: 40%; /*changes the width of the img*/
+    max-width: 45%; /*changes the width of the img*/
     height: auto;
-    float:left;
-    /*display:inline-block;*/
+    /*float:left;*/
+    display:inline-block;
     
 }
 .img-fluid3 {
@@ -532,6 +532,14 @@ pre code {
 }
 
 .container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto
+}
+
+.container2 {
     width: 100%;
     padding-right: 15px;
     padding-left: 15px;
