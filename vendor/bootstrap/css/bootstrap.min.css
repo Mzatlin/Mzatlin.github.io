@@ -460,7 +460,7 @@ hr {
     
 }
 .img-fluid3 {
-    max-width: 40%; /*changes the width of the img*/
+    max-width: 50%; /*changes the width of the img*/
     height: auto;
     float:left;
   /*  display:inline-block;*/
@@ -7189,12 +7189,20 @@ a.bg-dark:focus, a.bg-dark:hover, button.bg-dark:focus, button.bg-dark:hover {
     margin-top: 3rem!important
 }
 
+.mt-3 {
+    margin-top: 1.5rem!important
+}
+
 .mr-5, .mx-5 {
     margin-right: 3rem!important
 }
 
 .mb-5, .my-5 {
     margin-bottom: 1rem!important;
+}
+
+.mb-3, .my-5 {
+    margin-bottom: 0.5rem!important;
 }
 
 .ml-5, .mx-5 {
