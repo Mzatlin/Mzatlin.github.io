@@ -455,6 +455,8 @@ hr {
 .img-fluid2 {
     max-width: 45%; /*changes the width of the img*/
     height: auto;
+    min-height: 40%;
+    min-width: 35%;
     /*float:left;*/
     display:inline-block;
     
